@@ -1,13 +1,12 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.1",
+  "versionCode": 4,
+  "versionName": "1.0.2",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.1/vibetech-1.0.1.apk",
-  "sha256": "878013c403d0903bf8530a911057917ac4e6c6ebed2c31a31185ec61be8c1f23",
-  "sizeBytes": 3761484,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.2/vibetech-1.0.2.apk",
+  "sha256": "3840b35c6c4676338e532b52fb6866d7ccafb338172aedf63cf01a1658f3ffdf",
+  "sizeBytes": 3777868,
   "notes": [
-    "The app now updates itself over the internet.",
-    "The order header reads in two columns.",
-    "Signing out no longer signs you back in."
+    "A safeguard against a mislabelled update.",
+    "The order header reads in two columns."
   ]
 }
