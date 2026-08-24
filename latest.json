@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.2",
+  "versionCode": 3,
+  "versionName": "1.0.1",
   "minimumVersionCode": 1,
   "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.1/vibetech-1.0.1.apk",
-  "sha256": "878013c403d0903bf8530a911057917ac4e6c6ebed2c31a31185ec61be8c1f24",
+  "sha256": "878013c403d0903bf8530a911057917ac4e6c6ebed2c31a31185ec61be8c1f23",
   "sizeBytes": 3761484,
   "notes": [
     "The app now updates itself over the internet.",
