@@ -1,13 +1,12 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.3",
+  "versionCode": 6,
+  "versionName": "1.0.4",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.3/vibetech-1.0.3.apk",
-  "sha256": "97dd482ff0e5e2429099504a8839d2b33828b40759b2bcb65272114f544171af",
-  "sizeBytes": 3777868,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.4/vibetech-1.0.4.apk",
+  "sha256": "00a2a3a4a7fbddd81fe4817299655deaa5f766e4e278218006eed1121a412099",
+  "sizeBytes": 3778044,
   "notes": [
-    "Part search no longer comes back empty on the first try.",
-    "Tidier lists on the order screen; problems and outcomes are separated.",
-    "The stop number stays readable at large text sizes."
+    "Change your password from Settings.",
+    "COD orders: a signable Estimate, and real totals on the Proof of Service."
   ]
 }
