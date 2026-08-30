@@ -1,11 +1,11 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.6",
+  "versionCode": 9,
+  "versionName": "1.0.7",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.6/vibetech-1.0.6.apk",
-  "sha256": "0b77cf84d165f0b8c21fd4dcd1bffba39281dcd8dcd1a87a314ba1fe7fc3aeb7",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.7/vibetech-1.0.7.apk",
+  "sha256": "055ad2190452ef40516f18423f45749f0137016e404dd8d9e88837aebc5163ed",
   "sizeBytes": 3778044,
   "notes": [
-    "Large photos open again instead of failing to load."
+    "A session that expires mid-order re-sends your work after signing back in, no manual refresh."
   ]
 }
