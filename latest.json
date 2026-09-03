@@ -1,12 +1,13 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.8",
+  "versionCode": 11,
+  "versionName": "1.0.9",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.8/vibetech-1.0.8.apk",
-  "sha256": "9e82dca337703b726771539298663038e7ee08ece49732428f06d787930a3667",
-  "sizeBytes": 3778044,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.9/vibetech-1.0.9.apk",
+  "sha256": "0f2df63111f9399ef598b28d5b1783ab73a45c0956c633cf8c13aacd6f6d8e7f",
+  "sizeBytes": 3794428,
   "notes": [
-    "Model and serial fill in on their own even right after a burst of photos.",
-    "The app checks for updates before you sign in, so it can always be updated."
+    "Swipe left or right to move between unit tabs and between schedules.",
+    "A part's status stands out now, and a dead-end status can be corrected.",
+    "Model and serial fill in on their own even right after a burst of photos."
   ]
 }
