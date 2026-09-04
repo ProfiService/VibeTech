@@ -1,11 +1,12 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.12",
+  "versionCode": 15,
+  "versionName": "1.0.13",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.12/vibetech-1.0.12.apk",
-  "sha256": "11ac32c3800e2090c89704863abe9ca1211b34e65e9e38eab700cda0547066ca",
-  "sizeBytes": 3794432,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.13/vibetech-1.0.13.apk",
+  "sha256": "c6f378014cd013ad6fa0ea7556e7b77c54ed9a2380fd3edd76d05539c0171452",
+  "sizeBytes": 3794428,
   "notes": [
-    "A two-finger swipe between orders refreshes the schedule and re-optimises the route first, so it steps onto the schedule as the office has it now."
+    "Returning to the schedule refreshes it, so the office's changes show without a manual refresh.",
+    "New setting: re-optimize the route on its own when the schedule changes, or be asked first when it is off."
   ]
 }
