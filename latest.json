@@ -1,12 +1,12 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.10",
+  "versionCode": 13,
+  "versionName": "1.0.11",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.10/vibetech-1.0.10.apk",
-  "sha256": "2d674cca7631b49d0f0ed4db4bb4648ca7ea679e3fbc08fa7f1c2b437a0be050",
-  "sizeBytes": 3794428,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.11/vibetech-1.0.11.apk",
+  "sha256": "8746c3014623a4af0d2f7f2b0a8099b070efa280803f9d61d8d16e2e89a4731e",
+  "sizeBytes": 3794432,
   "notes": [
-    "A part's status change shows while it waits, and reverts if the office does not take it.",
-    "A dead-end part status can be corrected without the office."
+    "Model and serial read more reliably on a poor connection — photo uploads wait while the nameplate is read.",
+    "Two-finger swipe left or right moves to the next or previous order."
   ]
 }
