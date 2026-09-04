@@ -7,7 +7,6 @@
   "sizeBytes": 3794428,
   "notes": [
     "A part's status change shows while it waits, and reverts if the office does not take it.",
-    "A dead-end part status can be corrected without the office.",
-    "See the full history in the app: Check for updates → Changelog."
+    "A dead-end part status can be corrected without the office."
   ]
 }
