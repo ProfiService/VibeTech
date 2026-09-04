@@ -1,12 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.11",
+  "versionCode": 14,
+  "versionName": "1.0.12",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.11/vibetech-1.0.11.apk",
-  "sha256": "8746c3014623a4af0d2f7f2b0a8099b070efa280803f9d61d8d16e2e89a4731e",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.12/vibetech-1.0.12.apk",
+  "sha256": "11ac32c3800e2090c89704863abe9ca1211b34e65e9e38eab700cda0547066ca",
   "sizeBytes": 3794432,
   "notes": [
-    "Model and serial read more reliably on a poor connection — photo uploads wait while the nameplate is read.",
-    "Two-finger swipe left or right moves to the next or previous order."
+    "A two-finger swipe between orders refreshes the schedule and re-optimises the route first, so it steps onto the schedule as the office has it now."
   ]
 }
