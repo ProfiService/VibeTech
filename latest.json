@@ -1,12 +1,11 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.13",
+  "versionCode": 16,
+  "versionName": "1.0.14",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.13/vibetech-1.0.13.apk",
-  "sha256": "c6f378014cd013ad6fa0ea7556e7b77c54ed9a2380fd3edd76d05539c0171452",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.14/vibetech-1.0.14.apk",
+  "sha256": "65b4240ba3e38ecc5054dbee1df80ea6d72276a582ae2d1cbf4ee9f880c97d99",
   "sizeBytes": 3794428,
   "notes": [
-    "Returning to the schedule refreshes it, so the office's changes show without a manual refresh.",
-    "New setting: re-optimize the route on its own when the schedule changes, or be asked first when it is off."
+    "Fewer \"showing saved version\" fallbacks — after a long idle the connection is fully re-established before reading."
   ]
 }
