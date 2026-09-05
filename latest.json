@@ -1,11 +1,11 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.14",
+  "versionCode": 17,
+  "versionName": "1.0.15",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.14/vibetech-1.0.14.apk",
-  "sha256": "65b4240ba3e38ecc5054dbee1df80ea6d72276a582ae2d1cbf4ee9f880c97d99",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.15/vibetech-1.0.15.apk",
+  "sha256": "a3745e30e33cdb52d5566a1ba290ddff087b121ba8c91ff5c31a5a878188639f",
   "sizeBytes": 3794428,
   "notes": [
-    "Fewer \"showing saved version\" fallbacks — after a long idle the connection is fully re-established before reading."
+    "On a unit, Parts now come before the written Outcome — fit the part, then record what you did."
   ]
 }
