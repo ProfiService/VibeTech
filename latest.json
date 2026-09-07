@@ -1,11 +1,11 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.18",
+  "versionCode": 21,
+  "versionName": "1.0.19",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.18/vibetech-1.0.18.apk",
-  "sha256": "092038e0f9f3c185e75505cabd62c8108a9d72b631be5d7006277ed1193c346c",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.19/vibetech-1.0.19.apk",
+  "sha256": "845dbaa53180e4da9cdf9b115f91cb26fc4e9ef9270f8fc3be9258de88922d21",
   "sizeBytes": 4268491,
   "notes": [
-    "Rotating the phone no longer refreshes the schedule — the screen just reflows, without a network fetch."
+    "The Future and Past schedules now show each call's day above the time, not just the time."
   ]
 }
