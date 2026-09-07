@@ -1,11 +1,11 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.15",
+  "versionCode": 18,
+  "versionName": "1.0.16",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.15/vibetech-1.0.15.apk",
-  "sha256": "a3745e30e33cdb52d5566a1ba290ddff087b121ba8c91ff5c31a5a878188639f",
-  "sizeBytes": 3794428,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.16/vibetech-1.0.16.apk",
+  "sha256": "e8e9e990161574e33fdb1e272851266c9306f07091c2f9a01d53e23e2b5ae175",
+  "sizeBytes": 4268467,
   "notes": [
-    "On a unit, Parts now come before the written Outcome — fit the part, then record what you did."
+    "The Camera button opens an in-app camera that stays open for a run of photos — shoot several, then Done sends them all at once. Pinch to zoom, tap to focus."
   ]
 }
