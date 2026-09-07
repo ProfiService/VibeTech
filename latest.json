@@ -1,11 +1,11 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.19",
+  "versionCode": 22,
+  "versionName": "1.0.20",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.19/vibetech-1.0.19.apk",
-  "sha256": "845dbaa53180e4da9cdf9b115f91cb26fc4e9ef9270f8fc3be9258de88922d21",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.20/vibetech-1.0.20.apk",
+  "sha256": "e4d7ec36d8c2f705020c32fc3965e884461a1b3f478e81cdd5f13fb2b1c979e7",
   "sizeBytes": 4268491,
   "notes": [
-    "The Future and Past schedules now show each call's day above the time, not just the time."
+    "Fix: the day now shows on the Future and Past schedules — the office's date is parsed whatever its format."
   ]
 }
