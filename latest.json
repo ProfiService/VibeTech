@@ -1,11 +1,11 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.23",
+  "versionCode": 26,
+  "versionName": "1.0.24",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.23/vibetech-1.0.23.apk",
-  "sha256": "6256183c060a49cf0e1b2a98586a6bff84aed7dfc3bc6f9dd7690c8c88843578",
-  "sizeBytes": 4268495,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.24/vibetech-1.0.24.apk",
+  "sha256": "8da828187bd77ee61b302c4a3245bd8f76ce0f1a99a8498b11128c34f3264f7e",
+  "sizeBytes": 4268491,
   "notes": [
-    "Proof of Service now lists only parts that were actually installed, leaving out 'Installed Not Needed' and 'Installed Needed'."
+    "A waiting update is announced reliably at start-up — the check retries if the network was not ready yet."
   ]
 }
