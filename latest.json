@@ -1,12 +1,12 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.21",
+  "versionCode": 24,
+  "versionName": "1.0.22",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.21/vibetech-1.0.21.apk",
-  "sha256": "f2b66a735e01511213c2b123bb6154884ae6efea8611d245e70ed253aab9b1ae",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.22/vibetech-1.0.22.apk",
+  "sha256": "737e7c593788e56be57731baf2b2bc2c1209bf899bef976d19bbd700b874aa91",
   "sizeBytes": 4268491,
   "notes": [
-    "The day is bigger on the Future and Past schedules; the camera stays upright when you turn the phone, and each shot gives a flash.",
+    "Fix: the in-app Changelog loads again.",
     "A route ordered the night before is kept when tomorrow becomes today."
   ]
 }
