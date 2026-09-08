@@ -1,11 +1,11 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.20",
+  "versionCode": 23,
+  "versionName": "1.0.21",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.20/vibetech-1.0.20.apk",
-  "sha256": "e4d7ec36d8c2f705020c32fc3965e884461a1b3f478e81cdd5f13fb2b1c979e7",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.21/vibetech-1.0.21.apk",
+  "sha256": "07ff13412b894fb5cb5cd7740143722b99621d1055489dbfe926c80af8fbe05d",
   "sizeBytes": 4268491,
   "notes": [
-    "Fix: the day now shows on the Future and Past schedules — the office's date is parsed whatever its format."
+    "The day is bigger on the Future and Past schedules; the camera stays upright when you turn the phone, and each shot gives a flash."
   ]
 }
