@@ -1,12 +1,11 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.22",
+  "versionCode": 25,
+  "versionName": "1.0.23",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.22/vibetech-1.0.22.apk",
-  "sha256": "737e7c593788e56be57731baf2b2bc2c1209bf899bef976d19bbd700b874aa91",
-  "sizeBytes": 4268491,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.23/vibetech-1.0.23.apk",
+  "sha256": "6256183c060a49cf0e1b2a98586a6bff84aed7dfc3bc6f9dd7690c8c88843578",
+  "sizeBytes": 4268495,
   "notes": [
-    "Fix: the in-app Changelog loads again.",
-    "A route ordered the night before is kept when tomorrow becomes today."
+    "Proof of Service now lists only parts that were actually installed, leaving out 'Installed Not Needed' and 'Installed Needed'."
   ]
 }
