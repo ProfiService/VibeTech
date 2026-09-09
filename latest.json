@@ -1,11 +1,12 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.24",
+  "versionCode": 27,
+  "versionName": "1.0.25",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.24/vibetech-1.0.24.apk",
-  "sha256": "8da828187bd77ee61b302c4a3245bd8f76ce0f1a99a8498b11128c34f3264f7e",
-  "sizeBytes": 4268491,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.25/vibetech-1.0.25.apk",
+  "sha256": "9fac0ddc33e55784411e172badf00ba7fa86012476ed3ff43fcd95788ac8f7c2",
+  "sizeBytes": 4268527,
   "notes": [
-    "A waiting update is announced reliably at start-up — the check retries if the network was not ready yet."
+    "The diagnostic log is kept for the whole day in a file — Settings → Share diagnostic log.",
+    "The colour name is no longer shown as a word on the schedule."
   ]
 }
