@@ -1,12 +1,12 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.25",
+  "versionCode": 28,
+  "versionName": "1.0.26",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.25/vibetech-1.0.25.apk",
-  "sha256": "9fac0ddc33e55784411e172badf00ba7fa86012476ed3ff43fcd95788ac8f7c2",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.26/vibetech-1.0.26.apk",
+  "sha256": "f823f59ac267ba58800b81bacfe0ca485bc446d990c63ee6b9a9cb1d5b27dbe5",
   "sizeBytes": 4268527,
   "notes": [
-    "The diagnostic log is kept for the whole day in a file — Settings → Share diagnostic log.",
-    "The colour name is no longer shown as a word on the schedule."
+    "A model/serial read from a nameplate photo now fills in on its own once the signal is back, instead of waiting for you to press AI.",
+    "If a model/serial couldn't be confirmed as saved, the field is flagged so you can save it again, rather than looking done when it isn't."
   ]
 }
