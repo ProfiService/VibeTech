@@ -1,12 +1,12 @@
 {
-  "versionCode": 28,
-  "versionName": "1.0.26",
+  "versionCode": 29,
+  "versionName": "1.0.27",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.26/vibetech-1.0.26.apk",
-  "sha256": "f823f59ac267ba58800b81bacfe0ca485bc446d990c63ee6b9a9cb1d5b27dbe5",
-  "sizeBytes": 4268527,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.27/vibetech-1.0.27.apk",
+  "sha256": "deecbf3b8c892261e2ba660d169ed44d4d9ce016d80cd13a2cf5089b633e53a7",
+  "sizeBytes": 4284907,
   "notes": [
-    "A model/serial read from a nameplate photo now fills in on its own once the signal is back, instead of waiting for you to press AI.",
-    "If a model/serial couldn't be confirmed as saved, the field is flagged so you can save it again, rather than looking done when it isn't."
+    "A part's status now stays as you set it instead of snapping back, and the app tells you if the office didn't save it — no more tapping the same status over and over.",
+    "A part still being added can't have its status changed until the office has numbered it, so a status can no longer land on the wrong part."
   ]
 }
