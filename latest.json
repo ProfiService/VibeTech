@@ -1,12 +1,11 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.27",
+  "versionCode": 30,
+  "versionName": "1.0.28",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.27/vibetech-1.0.27.apk",
-  "sha256": "deecbf3b8c892261e2ba660d169ed44d4d9ce016d80cd13a2cf5089b633e53a7",
-  "sizeBytes": 4284907,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.28/vibetech-1.0.28.apk",
+  "sha256": "c0d66a50498f853911e1115580aa0e2f0097eb331fd9ae8d71795a387a0488ac",
+  "sizeBytes": 4284911,
   "notes": [
-    "A part's status now stays as you set it instead of snapping back, and the app tells you if the office didn't save it — no more tapping the same status over and over.",
-    "A part still being added can't have its status changed until the office has numbered it, so a status can no longer land on the wrong part."
+    "When the office adds or drops orders during the day, the route re-optimizes on its own — starting from the job you just finished — instead of only when you return from an order. No more pressing Optimize by hand."
   ]
 }
