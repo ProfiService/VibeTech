@@ -1,11 +1,12 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.29",
+  "versionCode": 32,
+  "versionName": "1.0.30",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.29/vibetech-1.0.29.apk",
-  "sha256": "998c77e5856944a190d3eaf925635f04e5f342d13047dbdac801b07e4f3d4cf0",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.30/vibetech-1.0.30.apk",
+  "sha256": "288d725eada86eb8a7686dcb249043e7975bd4581b4578b84a74f5d566decd0b",
   "sizeBytes": 4284907,
   "notes": [
-    "Route optimization is now scoped to where it belongs: the Optimize button shows only on Today and Tomorrow, and the automatic re-optimize (when the office changes your calls) runs only on Today, starting from the job you just finished."
+    "When the server is down or out of reach, orders you have already loaded still open from the copy saved on your phone instead of a blank screen.",
+    "Today's orders are saved for offline use more reliably — including ones the office adds during the day — and re-saved whenever the connection comes back. Orders already saved are never overwritten."
   ]
 }
