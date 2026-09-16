@@ -1,12 +1,11 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.30",
+  "versionCode": 33,
+  "versionName": "1.0.31",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.30/vibetech-1.0.30.apk",
-  "sha256": "288d725eada86eb8a7686dcb249043e7975bd4581b4578b84a74f5d566decd0b",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.31/vibetech-1.0.31.apk",
+  "sha256": "33521939bfedf7bb9d2858876d3bb161863c6acbd2c6d1fcd048913ee7323674",
   "sizeBytes": 4284907,
   "notes": [
-    "When the server is down or out of reach, orders you have already loaded still open from the copy saved on your phone instead of a blank screen.",
-    "Today's orders are saved for offline use more reliably — including ones the office adds during the day — and re-saved whenever the connection comes back. Orders already saved are never overwritten."
+    "Fixed a false \"nothing to update\" message on part-status changes after the server came back — the change was saving; the app was misreading the server's \"already set\" reply as an error and re-sending it."
   ]
 }
