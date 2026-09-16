@@ -1,11 +1,11 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.28",
+  "versionCode": 31,
+  "versionName": "1.0.29",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.28/vibetech-1.0.28.apk",
-  "sha256": "c0d66a50498f853911e1115580aa0e2f0097eb331fd9ae8d71795a387a0488ac",
-  "sizeBytes": 4284911,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.29/vibetech-1.0.29.apk",
+  "sha256": "998c77e5856944a190d3eaf925635f04e5f342d13047dbdac801b07e4f3d4cf0",
+  "sizeBytes": 4284907,
   "notes": [
-    "When the office adds or drops orders during the day, the route re-optimizes on its own — starting from the job you just finished — instead of only when you return from an order. No more pressing Optimize by hand."
+    "Route optimization is now scoped to where it belongs: the Optimize button shows only on Today and Tomorrow, and the automatic re-optimize (when the office changes your calls) runs only on Today, starting from the job you just finished."
   ]
 }
