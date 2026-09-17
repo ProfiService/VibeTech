@@ -1,11 +1,11 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.32",
+  "versionCode": 35,
+  "versionName": "1.0.33",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.32/vibetech-1.0.32.apk",
-  "sha256": "e0c5c87a42c08ee99be2c373647d04a4400feef901c414fc63040caf2ebafb51",
-  "sizeBytes": 4284911,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.33/vibetech-1.0.33.apk",
+  "sha256": "06d34e82255af99a0897e2c2c052f91a2bd6c8bf4c9bad8bd84b7d327b86eac5",
+  "sizeBytes": 4284907,
   "notes": [
-    "Auto-optimize now starts the route from your current location when no order has been finished yet today, instead of from yesterday's last stop."
+    "When the nameplate reader gets an empty answer on a photo it recognized as a label, it now retries for a few minutes instead of giving up at once — a plate that momentarily reads as blank fills in on its own, without pressing AI again."
   ]
 }
