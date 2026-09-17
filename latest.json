@@ -1,11 +1,11 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.31",
+  "versionCode": 34,
+  "versionName": "1.0.32",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.31/vibetech-1.0.31.apk",
-  "sha256": "33521939bfedf7bb9d2858876d3bb161863c6acbd2c6d1fcd048913ee7323674",
-  "sizeBytes": 4284907,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.32/vibetech-1.0.32.apk",
+  "sha256": "e0c5c87a42c08ee99be2c373647d04a4400feef901c414fc63040caf2ebafb51",
+  "sizeBytes": 4284911,
   "notes": [
-    "Fixed a false \"nothing to update\" message on part-status changes after the server came back — the change was saving; the app was misreading the server's \"already set\" reply as an error and re-sending it."
+    "Auto-optimize now starts the route from your current location when no order has been finished yet today, instead of from yesterday's last stop."
   ]
 }
