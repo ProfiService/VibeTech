@@ -1,11 +1,12 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.33",
+  "versionCode": 36,
+  "versionName": "1.0.34",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.33/vibetech-1.0.33.apk",
-  "sha256": "06d34e82255af99a0897e2c2c052f91a2bd6c8bf4c9bad8bd84b7d327b86eac5",
-  "sizeBytes": 4284907,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.34/vibetech-1.0.34.apk",
+  "sha256": "15845a86d69b7047abafdde5ce914eca84f9bbd8f79911826c4e0ded0e8746dd",
+  "sizeBytes": 4284935,
   "notes": [
-    "When the nameplate reader gets an empty answer on a photo it recognized as a label, it now retries for a few minutes instead of giving up at once — a plate that momentarily reads as blank fills in on its own, without pressing AI again."
+    "Take more photos and open a photo you just added without waiting for the previous upload to finish.",
+    "On the Waiver and Proof of Service the customer's name is a field next to the signature, so the keyboard no longer hides the signature pad or Submit. The signed PDF the office receives is unchanged."
   ]
 }
