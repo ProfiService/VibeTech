@@ -1,12 +1,11 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.35",
+  "versionCode": 38,
+  "versionName": "1.0.36",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.35/vibetech-1.0.35.apk",
-  "sha256": "4577924d71892f4a81102372413e64f35292342a2ce67848344a3dd526291385",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.36/vibetech-1.0.36.apk",
+  "sha256": "b7581a0ba06fb9bf5d3b091ff752d896c8e79dc6392bf98a1431d75ddcecd79c",
   "sizeBytes": 4284935,
   "notes": [
-    "The loading spinner is back when you open a photo or a photo is uploading (you can still take more photos and open one meanwhile).",
-    "Fixed a black mark in the corner of the name field on the Waiver / Proof of Service when you tap it."
+    "When you tap a field on an order (model/serial, quantity/price, notes), it now moves above the keyboard on its own — no more scrolling by hand to see what you're typing."
   ]
 }
