@@ -1,12 +1,12 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.34",
+  "versionCode": 37,
+  "versionName": "1.0.35",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.34/vibetech-1.0.34.apk",
-  "sha256": "15845a86d69b7047abafdde5ce914eca84f9bbd8f79911826c4e0ded0e8746dd",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.35/vibetech-1.0.35.apk",
+  "sha256": "4577924d71892f4a81102372413e64f35292342a2ce67848344a3dd526291385",
   "sizeBytes": 4284935,
   "notes": [
-    "Take more photos and open a photo you just added without waiting for the previous upload to finish.",
-    "On the Waiver and Proof of Service the customer's name is a field next to the signature, so the keyboard no longer hides the signature pad or Submit. The signed PDF the office receives is unchanged."
+    "The loading spinner is back when you open a photo or a photo is uploading (you can still take more photos and open one meanwhile).",
+    "Fixed a black mark in the corner of the name field on the Waiver / Proof of Service when you tap it."
   ]
 }
