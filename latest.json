@@ -1,11 +1,11 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.36",
+  "versionCode": 39,
+  "versionName": "1.0.37",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.36/vibetech-1.0.36.apk",
-  "sha256": "b7581a0ba06fb9bf5d3b091ff752d896c8e79dc6392bf98a1431d75ddcecd79c",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.37/vibetech-1.0.37.apk",
+  "sha256": "3f40cab92f379db1588bb58111718634052d8efec7b5c581a4a5dc8805d13e1f",
   "sizeBytes": 4284935,
   "notes": [
-    "When you tap a field on an order (model/serial, quantity/price, notes), it now moves above the keyboard on its own — no more scrolling by hand to see what you're typing."
+    "Camera taps stay inside the in-app camera, preventing touches from activating order controls or opening photos underneath."
   ]
 }
