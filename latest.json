@@ -1,11 +1,11 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.37",
+  "versionCode": 40,
+  "versionName": "1.0.38",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.37/vibetech-1.0.37.apk",
-  "sha256": "3f40cab92f379db1588bb58111718634052d8efec7b5c581a4a5dc8805d13e1f",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.38/vibetech-1.0.38.apk",
+  "sha256": "cf5d72f486da35286672f3461883d80c4326079203749ec9d46c5ec445866a61",
   "sizeBytes": 4284935,
   "notes": [
-    "Camera taps stay inside the in-app camera, preventing touches from activating order controls or opening photos underneath."
+    "Taps on the full shutter ring now take a photo without reaching the order underneath. The shutter stays centered as the photo count grows."
   ]
 }
