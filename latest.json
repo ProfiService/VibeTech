@@ -1,13 +1,13 @@
 {
-  "versionCode": 41,
-  "versionName": "1.0.39",
+  "versionCode": 42,
+  "versionName": "1.0.40",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.39/vibetech-1.0.39.apk",
-  "sha256": "d64369140423205d002ff92358bd20f13a6e23331060aa45cc3418d1f2a6c37d",
-  "sizeBytes": 4385128,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.40/vibetech-1.0.40.apk",
+  "sha256": "b301c7715c6b4620e77096cb20e8c93374bb4ed080d347afe909747bf03bd387",
+  "sizeBytes": 4401512,
   "notes": [
-    "Tap WO in an order to browse your service history at the same address. Sign-in is automatic after connecting History in Settings.",
-    "Order and unit status changes are recorded for history and retried automatically when offline.",
-    "History is limited to orders available to the signed-in technician."
+    "Multiple phones can share one technician session. Update every phone and connect each with its own History pairing code.",
+    "When a token expires, VibeTech tries the session from History before a coordinated password sign-in. Network errors preserve offline work.",
+    "Use session from History / connect another phone is available on the sign-in screen. Pending token sharing survives restarts."
   ]
 }
