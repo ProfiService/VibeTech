@@ -1,11 +1,13 @@
 {
-  "versionCode": 40,
-  "versionName": "1.0.38",
+  "versionCode": 41,
+  "versionName": "1.0.39",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.38/vibetech-1.0.38.apk",
-  "sha256": "cf5d72f486da35286672f3461883d80c4326079203749ec9d46c5ec445866a61",
-  "sizeBytes": 4284935,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.39/vibetech-1.0.39.apk",
+  "sha256": "d64369140423205d002ff92358bd20f13a6e23331060aa45cc3418d1f2a6c37d",
+  "sizeBytes": 4385128,
   "notes": [
-    "Taps on the full shutter ring now take a photo without reaching the order underneath. The shutter stays centered as the photo count grows."
+    "Tap WO in an order to browse your service history at the same address. Sign-in is automatic after connecting History in Settings.",
+    "Order and unit status changes are recorded for history and retried automatically when offline.",
+    "History is limited to orders available to the signed-in technician."
   ]
 }
