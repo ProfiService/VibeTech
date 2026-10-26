@@ -1,13 +1,13 @@
 {
-  "versionCode": 42,
-  "versionName": "1.0.40",
+  "versionCode": 43,
+  "versionName": "1.0.41",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.40/vibetech-1.0.40.apk",
-  "sha256": "b301c7715c6b4620e77096cb20e8c93374bb4ed080d347afe909747bf03bd387",
-  "sizeBytes": 4401512,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.41/vibetech-1.0.41.apk",
+  "sha256": "fd78bb395259ee0b0ce08cf536ce975028037e4de832fb8e01813b5bcb1f340b",
+  "sizeBytes": 4417896,
   "notes": [
-    "Multiple phones can share one technician session. Update every phone and connect each with its own History pairing code.",
-    "When a token expires, VibeTech tries the session from History before a coordinated password sign-in. Network errors preserve offline work.",
-    "Use session from History / connect another phone is available on the sign-in screen. Pending token sharing survives restarts."
+    "Change password is available before sign-in, without an active session.",
+    "Explicit password-expiry messages open the password change screen; generic Login Expired includes password-change guidance.",
+    "Successful password changes continue sign-in and session sharing with History. Fingerprint credentials are updated only for the matching technician."
   ]
 }
