@@ -1,13 +1,11 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.41",
+  "versionCode": 44,
+  "versionName": "1.0.42",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.41/vibetech-1.0.41.apk",
-  "sha256": "fd78bb395259ee0b0ce08cf536ce975028037e4de832fb8e01813b5bcb1f340b",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.42/vibetech-1.0.42.apk",
+  "sha256": "c5f9fba984bc78b716e431ff8231a6c91b1d65befa11a848fedc158f73edfbff",
   "sizeBytes": 4417896,
   "notes": [
-    "Change password is available before sign-in, without an active session.",
-    "Explicit password-expiry messages open the password change screen; generic Login Expired includes password-change guidance.",
-    "Successful password changes continue sign-in and session sharing with History. Fingerprint credentials are updated only for the matching technician."
+    "Login Expired now opens the mandatory password-change screen. Update your password in VibeTech and continue signing in without the web portal."
   ]
 }
