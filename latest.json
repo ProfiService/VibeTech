@@ -1,11 +1,13 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.42",
+  "versionCode": 45,
+  "versionName": "1.0.43",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.42/vibetech-1.0.42.apk",
-  "sha256": "c5f9fba984bc78b716e431ff8231a6c91b1d65befa11a848fedc158f73edfbff",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.43/vibetech-1.0.43.apk",
+  "sha256": "22839b519b432e14a46529f03b5bd9fefce0c555fec67155c107dae36f752f89",
   "sizeBytes": 4417896,
   "notes": [
-    "Login Expired now opens the mandatory password-change screen. Update your password in VibeTech and continue signing in without the web portal."
+    "Expired saved tokens first try History recovery and normal sign-in instead of immediately requesting a password change.",
+    "Login Expired returned by username/password sign-in still opens password change.",
+    "Diagnostics include app version and safe authentication stages/outcomes."
   ]
 }
