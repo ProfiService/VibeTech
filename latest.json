@@ -1,12 +1,13 @@
 {
-  "versionCode": 47,
-  "versionName": "1.0.45",
+  "versionCode": 49,
+  "versionName": "1.0.47",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.45/vibetech-1.0.45.apk",
-  "sha256": "a57f53aa3cd0be2bc0e2b8e7981b29abeaeac5586cc34bf494fcf498d89e8f2f",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.47/vibetech-1.0.47.apk",
+  "sha256": "295e60caeb1e294c631788320b033c6a2199da58c34403e379a366132ea79120",
   "sizeBytes": 4417896,
   "notes": [
-    "One-tap Exit button in History returns you to the app from any page — no more repeated Back presses.",
-    "History full-size photos zoom — pinch on the phone, mouse wheel and drag on the desktop."
+    "Fixed sign-in after a password change: explicit invalid-credential replies release the History login lock immediately.",
+    "Outdated fingerprint credentials are cleared after a confirmed refusal.",
+    "Revoked tokens no longer restore a false offline session; safe sign-in diagnostics improved."
   ]
 }
