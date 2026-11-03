@@ -1,13 +1,13 @@
 {
-  "versionCode": 49,
-  "versionName": "1.0.47",
+  "versionCode": 50,
+  "versionName": "1.0.48",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.47/vibetech-1.0.47.apk",
-  "sha256": "295e60caeb1e294c631788320b033c6a2199da58c34403e379a366132ea79120",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.48/vibetech-1.0.48.apk",
+  "sha256": "be456a02d522bb828cf6aa12f20c7d7a5ee405031edb6cd7b06df627376ea79d",
   "sizeBytes": 4417896,
   "notes": [
-    "Fixed sign-in after a password change: explicit invalid-credential replies release the History login lock immediately.",
-    "Outdated fingerprint credentials are cleared after a confirmed refusal.",
-    "Revoked tokens no longer restore a false offline session; safe sign-in diagnostics improved."
+    "Payment imports now open inside VibeTech History.",
+    "Choose and upload multiple PDF statements using the Android system file picker.",
+    "Paired-origin navigation restrictions and technician document access remain enforced."
   ]
 }
