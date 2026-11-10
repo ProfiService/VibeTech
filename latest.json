@@ -1,13 +1,13 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.49",
+  "versionCode": 52,
+  "versionName": "1.0.50",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.49/vibetech-1.0.49.apk",
-  "sha256": "5c137daafb4c39caa18a9e01ff8daa89b718e6ab0d5c0372eaa5d0edbc45de9b",
-  "sizeBytes": 4417896,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.50/vibetech-1.0.50.apk",
+  "sha256": "bf78953457484fd6ed5429dceb5fcfd09775cbde290ebae3883c5db420ba7a49",
+  "sizeBytes": 4546899,
   "notes": [
-    "Select photos and videos together from Gallery.",
-    "Attach videos up to 512 MB with file-backed streaming.",
-    "Interrupted uploads remain in the offline queue and retry the same document."
+    "Fix opening videos larger than 32 MB.",
+    "Stream video downloads directly into a private file instead of buffering the whole video.",
+    "Validate complete downloads and improve video player selection."
   ]
 }
