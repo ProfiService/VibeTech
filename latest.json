@@ -1,13 +1,13 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0.52",
+  "versionCode": 55,
+  "versionName": "1.0.53",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.52/vibetech-1.0.52.apk",
-  "sha256": "527b5ff175beec0b35c99fd6dba5a5c23f315a417150e8a5e52bd4812962c9fa",
-  "sizeBytes": 4546903,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.53/vibetech-1.0.53.apk",
+  "sha256": "7288f8f95aea1ef9de5dc61442cd088f0721acae737d9adc52f6b969035e63db",
+  "sizeBytes": 4546899,
   "notes": [
-    "Sign directly in the signature field or tap to open a larger editor.",
-    "Fix signature editor buttons and canvas sizing in portrait and landscape.",
-    "Support Android system face biometrics on compatible phones without fingerprint sensors."
+    "Fix signature shrinking after accepting the enlarged editor or changing orientation.",
+    "Preserve original ink coordinates and fit actual strokes instead of blank canvas margins.",
+    "Use consistent signature sizing in the preview and PDF."
   ]
 }
