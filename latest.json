@@ -1,13 +1,13 @@
 {
-  "versionCode": 53,
-  "versionName": "1.0.51",
+  "versionCode": 54,
+  "versionName": "1.0.52",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.51/vibetech-1.0.51.apk",
-  "sha256": "f14547d97ba773109c640c07e82b884d5b8619cacbd990ae0e3a090ccf51ba07",
-  "sizeBytes": 4546899,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.52/vibetech-1.0.52.apk",
+  "sha256": "527b5ff175beec0b35c99fd6dba5a5c23f315a417150e8a5e52bd4812962c9fa",
+  "sizeBytes": 4546903,
   "notes": [
-    "Fix overlapping cards and abrupt jumps when reordering orders.",
-    "Use Google Routes API for route optimization. Enable Routes API and Geocoding API for your key.",
-    "Scroll to the first order after successful optimization."
+    "Sign directly in the signature field or tap to open a larger editor.",
+    "Fix signature editor buttons and canvas sizing in portrait and landscape.",
+    "Support Android system face biometrics on compatible phones without fingerprint sensors."
   ]
 }
