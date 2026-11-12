@@ -1,13 +1,13 @@
 {
-  "versionCode": 55,
-  "versionName": "1.0.53",
+  "versionCode": 56,
+  "versionName": "1.0.54",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.53/vibetech-1.0.53.apk",
-  "sha256": "7288f8f95aea1ef9de5dc61442cd088f0721acae737d9adc52f6b969035e63db",
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.54/vibetech-1.0.54.apk",
+  "sha256": "0d7726a12a9144450254cb1999cdeb6623cdbcf3b219f17d4e0393c6d8135308",
   "sizeBytes": 4546899,
   "notes": [
-    "Fix signature shrinking after accepting the enlarged editor or changing orientation.",
-    "Preserve original ink coordinates and fit actual strokes instead of blank canvas margins.",
-    "Use consistent signature sizing in the preview and PDF."
+    "Protect signature input from Android edge Back gestures in both inline and expanded signing.",
+    "Keep the full ink area within the system gesture-exclusion height budget.",
+    "Restore Back navigation outside the signature band and when the field closes."
   ]
 }
