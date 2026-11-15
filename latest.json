@@ -1,13 +1,13 @@
 {
-  "versionCode": 58,
-  "versionName": "1.0.56",
+  "versionCode": 59,
+  "versionName": "1.0.57",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.56/vibetech-1.0.56.apk",
-  "sha256": "8576de16b33d8916497cc5818c4dd5ba204e7cd4e5855df971eff17bbea6524b",
-  "sizeBytes": 4596175,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.57/vibetech-1.0.57.apk",
+  "sha256": "d31f569b931180a186f266f58057de4faf5ad12294f0368130ca3bb3e9942f6f",
+  "sizeBytes": 4612555,
   "notes": [
-    "Cache all Today orders and requested Tomorrow orders, including full photos and PDFs; exclude videos.",
-    "Reuse complete daily caches across app restarts and refresh only new, changed or incomplete orders.",
-    "Preserve Tomorrow across midnight and protect unsent changes during expired-cache cleanup."
+    "Personal saved phrases and dictation in Problems, Outcome and Notes.",
+    "Address history checkmark beside WO, respecting technician access.",
+    "Optional Also add to Notes when saving a problem; both writes persist together in the offline queue."
   ]
 }
