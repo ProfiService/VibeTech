@@ -1,13 +1,13 @@
 {
-  "versionCode": 62,
-  "versionName": "1.0.60",
+  "versionCode": 63,
+  "versionName": "1.0.61",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.60/vibetech-1.0.60.apk",
-  "sha256": "ab05c8ce789fe90a1967d5be49e5c913c99d715a844e2905bf2be206365054aa",
-  "sizeBytes": 4616639,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.61/vibetech-1.0.61.apk",
+  "sha256": "e2a48fd9a80ce3e2ff4b7ec0c99b7148df84a751a254bbfc683275d08fc1bc87",
+  "sizeBytes": 4616643,
   "notes": [
-    "Restore default part status actions, including Installed Need Approval.",
-    "The checkmark keeps the current status when quantity or COD price changes; otherwise it applies the selected default status.",
-    "Dropdown status changes still apply immediately."
+    "Preserve optimized routes after schedule refresh and returning from an order.",
+    "Save routes by the selected schedule day instead of the first appointment date.",
+    "Persist optimized order before showing it and reject stale refresh results; keep morning-before-afternoon routing."
   ]
 }
