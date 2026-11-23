@@ -1,13 +1,13 @@
 {
-  "versionCode": 63,
-  "versionName": "1.0.61",
+  "versionCode": 64,
+  "versionName": "1.0.62",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.61/vibetech-1.0.61.apk",
-  "sha256": "e2a48fd9a80ce3e2ff4b7ec0c99b7148df84a751a254bbfc683275d08fc1bc87",
-  "sizeBytes": 4616643,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.62/vibetech-1.0.62.apk",
+  "sha256": "c3b042ba04ea0ed419c90dcde56e4098e036148e009e90a844de84bb753aa3ed",
+  "sizeBytes": 4633027,
   "notes": [
-    "Preserve optimized routes after schedule refresh and returning from an order.",
-    "Save routes by the selected schedule day instead of the first appointment date.",
-    "Persist optimized order before showing it and reject stale refresh results; keep morning-before-afternoon routing."
+    "Long-press problem, resolution and Notes text to copy full contents.",
+    "Copy order and schedule addresses with a long press while preserving normal tap actions.",
+    "Copy part names and numbers, including part search results and truncated text."
   ]
 }
