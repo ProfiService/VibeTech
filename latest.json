@@ -1,13 +1,13 @@
 {
-  "versionCode": 64,
-  "versionName": "1.0.62",
+  "versionCode": 65,
+  "versionName": "1.0.63",
   "minimumVersionCode": 1,
-  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.62/vibetech-1.0.62.apk",
-  "sha256": "c3b042ba04ea0ed419c90dcde56e4098e036148e009e90a844de84bb753aa3ed",
-  "sizeBytes": 4633027,
+  "url": "https://github.com/ProfiService/VibeTech/releases/download/v1.0.63/vibetech-1.0.63.apk",
+  "sha256": "47acf944f513a71b2beb6618786e828a6ccfca477b87ddd179f20bee573c81c8",
+  "sizeBytes": 4633023,
   "notes": [
-    "Long-press problem, resolution and Notes text to copy full contents.",
-    "Copy order and schedule addresses with a long press while preserving normal tap actions.",
-    "Copy part names and numbers, including part search results and truncated text."
+    "Fix queued changes for orders outside the current schedule, including FollowUp.",
+    "Recover existing queued orders and preserve local changes when confirmation is unavailable.",
+    "Tap Queued to see affected work orders and review their delivery state."
   ]
 }
